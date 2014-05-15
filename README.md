@@ -1,4 +1,6 @@
 YouTube_BOT
 ===========
 
-This script will increase YouTube Viwes ;-)
+This script will increase  your YouTube Viwes ;-)
+
+Sharing is caring !
